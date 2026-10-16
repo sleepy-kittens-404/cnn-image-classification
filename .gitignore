@@ -5,7 +5,7 @@ __pycache__/
 dataset/
 # C extensions
 *.so
-
+cnn_model.pth
 # Distribution / packaging
 .Python
 build/
